@@ -1,0 +1,21 @@
+
+
+div { width: 500px;
+	height:100px;
+	border: 5px solid purple;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    margin-right: 20px;
+    background-color:#ffe5e5; 
+      }
+
+.cajas {
+  text-align: center;
+  border: green dotted;
+  background-color:white;
+  margin-left: 20px;
+  margin-right: 10px;
+}
